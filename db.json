@@ -1,0 +1,65 @@
+{
+    "people": [
+      {
+        "first_name": "John",
+        "last_name": "Doe",
+        "current_role": "Software Engineer",
+        "organization": "TechCorp",
+        "type": "Mentor",
+        "expertise": "Software Development",
+        "email": "john.doe@example.com",
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "participation": "Active",
+        "fees": "$100.00"
+      },
+      {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "current_role": "Data Scientist",
+        "organization": "Data Insights",
+        "type": "Speaker",
+        "expertise": "Data Science",
+        "email": "jane.smith@example.com",
+        "linkedin": "https://www.linkedin.com/in/janesmith",
+        "participation": "Inactive",
+        "fees": "$150.00"
+      },
+      {
+        "first_name": "David",
+        "last_name": "Williams",
+        "current_role": "Marketing Manager",
+        "organization": "Market Trends",
+        "type": "Mentor",
+        "expertise": "Marketing Strategy",
+        "email": "david.williams@example.com",
+        "linkedin": "https://www.linkedin.com/in/davidwilliams",
+        "participation": "Active",
+        "fees": "$120.00"
+      },
+      {
+        "first_name": "Emily",
+        "last_name": "Jones",
+        "current_role": "UX Designer",
+        "organization": "Design Innovations",
+        "type": "Speaker",
+        "expertise": "User Experience",
+        "email": "emily.jones@example.com",
+        "linkedin": "https://www.linkedin.com/in/emilyjones",
+        "participation": "Active",
+        "fees": "$130.00"
+      },
+      {
+        "first_name": "Michael",
+        "last_name": "Johnson",
+        "current_role": "Financial Analyst",
+        "organization": "Finance Solutions",
+        "type": "Mentor",
+        "expertise": "Financial Planning",
+        "email": "michael.johnson@example.com",
+        "linkedin": "https://www.linkedin.com/in/michaeljohnson",
+        "participation": "Inactive",
+        "fees": "$110.00"
+      }
+    ]
+  }
+  
