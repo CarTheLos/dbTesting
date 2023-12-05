@@ -7,7 +7,7 @@
       "organization": "Apple",
       "type": "Mentor",
       "expertise": "Software Development",
-      "email": "john.doe@example.com",
+      "email": "john.doe@gmail.com",
       "linkedin": "https://www.linkedin.com/in/johndoe",
       "participation": "Active",
       "fees": "$100.00"
@@ -19,7 +19,7 @@
       "organization": "Microsoft",
       "type": "Speaker",
       "expertise": "Data Science",
-      "email": "jane.smith@example.com",
+      "email": "jane.smith@gmail.com",
       "linkedin": "https://www.linkedin.com/in/janesmith",
       "participation": "Inactive",
       "fees": "$150.00"
@@ -31,7 +31,7 @@
       "organization": "Oracle",
       "type": "Mentor",
       "expertise": "Marketing Strategy",
-      "email": "david.williams@example.com",
+      "email": "david.williams@yahoo.com",
       "linkedin": "https://www.linkedin.com/in/davidwilliams",
       "participation": "Active",
       "fees": "$120.00"
@@ -43,7 +43,7 @@
       "organization": "Google",
       "type": "Speaker",
       "expertise": "User Experience",
-      "email": "emily.jones@example.com",
+      "email": "emily.jones@outlook.com",
       "linkedin": "https://www.linkedin.com/in/emilyjones",
       "participation": "Active",
       "fees": "$130.00"
@@ -55,7 +55,7 @@
       "organization": "Lenovo",
       "type": "Speaker",
       "expertise": "Financial Planning",
-      "email": "michael.johnson@example.com",
+      "email": "michael.johnson@yahoo.com",
       "linkedin": "https://www.linkedin.com/in/michaeljohnson",
       "participation": "Inactive",
       "fees": "$110.00"
@@ -67,7 +67,7 @@
       "organization": "Dell",
       "type": "Mentor",
       "expertise": "Product Management",
-      "email": "sarah.miller@example.com",
+      "email": "sarah.miller@gmail.com",
       "linkedin": "https://www.linkedin.com/in/sarahmiller",
       "participation": "Active",
       "fees": "$140.00"
@@ -79,7 +79,7 @@
       "organization": "HP",
       "type": "Mentor",
       "expertise": "IT Consulting",
-      "email": "alex.brown@example.com",
+      "email": "alex.brown@gmail.com",
       "linkedin": "https://www.linkedin.com/in/alexbrown",
       "participation": "Inactive",
       "fees": "$105.00"
@@ -91,7 +91,7 @@
       "organization": "Dell",
       "type": "Speaker",
       "expertise": "Human Resources",
-      "email": "megan.taylor@example.com",
+      "email": "megan.taylor@gmail.com",
       "linkedin": "https://www.linkedin.com/in/megantaylor",
       "participation": "Active",
       "fees": "$125.00"
@@ -103,7 +103,7 @@
       "organization": "Google",
       "type": "Mentor",
       "expertise": "Graphic Design",
-      "email": "daniel.harris@example.com",
+      "email": "daniel.harris@yahoo.com",
       "linkedin": "https://www.linkedin.com/in/danielharris",
       "participation": "Active",
       "fees": "$115.00"
@@ -115,7 +115,7 @@
       "organization": "Apple",
       "type": "Mentor",
       "expertise": "Public Relations",
-      "email": "olivia.clark@example.com",
+      "email": "olivia.clark@hotmail.com",
       "linkedin": "https://www.linkedin.com/in/oliviaclark",
       "participation": "Inactive",
       "fees": "$135.00"
@@ -127,7 +127,7 @@
       "organization": "Microsoft",
       "type": "Mentor",
       "expertise": "Systems Analysis",
-      "email": "ryan.walker@example.com",
+      "email": "ryan.walker@gmail.com",
       "linkedin": "https://www.linkedin.com/in/ryanwalker",
       "participation": "Active",
       "fees": "$110.00"
@@ -139,7 +139,7 @@
       "organization": "Microsoft",
       "type": "Speaker",
       "expertise": "Legal Affairs",
-      "email": "sophia.baker@example.com",
+      "email": "sophia.baker@hotmail.com",
       "linkedin": "https://www.linkedin.com/in/sophiabaker",
       "participation": "Inactive",
       "fees": "$145.00"
@@ -151,7 +151,7 @@
       "organization": "Oracle",
       "type": "Mentor",
       "expertise": "Project Management",
-      "email": "kevin.ward@example.com",
+      "email": "kevin.ward@sbcglobal.com",
       "linkedin": "https://www.linkedin.com/in/kevinward",
       "participation": "Active",
       "fees": "$120.00"
@@ -163,7 +163,7 @@
       "organization": "CSU Stanislaus",
       "type": "Speaker",
       "expertise": "Biomedical Research",
-      "email": "emma.fisher@example.com",
+      "email": "emma.fisher@yahoo.com",
       "linkedin": "https://www.linkedin.com/in/emmafisher",
       "participation": "Active",
       "fees": "$130.00"
@@ -175,7 +175,7 @@
       "organization": "Apple",
       "type": "Speaker",
       "expertise": "Financial Advisory",
-      "email": "christopher.wong@example.com",
+      "email": "christopher.wong@gmail.com",
       "linkedin": "https://www.linkedin.com/in/christopherwong",
       "participation": "Active",
       "fees": "$0.00"
