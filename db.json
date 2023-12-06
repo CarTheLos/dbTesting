@@ -73,42 +73,6 @@
             "fees": "$125.00"
         },
         {
-            "first_name": "Parker",
-            "last_name": "Meadows",
-            "current_role": "Graphic Designer",
-            "organization": "Google",
-            "type": "Mentor",
-            "expertise": "Graphic Design",
-            "email": "daniel.harris@yahoo.com",
-            "linkedin": "https://www.linkedin.com/in/danielharris",
-            "participation": "Active",
-            "fees": "$115.00"
-        },
-        {
-            "first_name": "Charlie",
-            "last_name": "Marsh",
-            "current_role": "Public Relations Manager",
-            "organization": "Apple",
-            "type": "Mentor",
-            "expertise": "Public Relations",
-            "email": "olivia.clark@hotmail.com",
-            "linkedin": "https://www.linkedin.com/in/oliviaclark",
-            "participation": "Inactive",
-            "fees": "$135.00"
-        },
-        {
-            "first_name": "Avery",
-            "last_name": "Shepherd",
-            "current_role": "Systems Analyst",
-            "organization": "Microsoft",
-            "type": "Mentor",
-            "expertise": "Systems Analysis",
-            "email": "ryan.walker@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/ryanwalker",
-            "participation": "Active",
-            "fees": "$110.00"
-        },
-        {
             "first_name": "Kai",
             "last_name": "Mata",
             "current_role": "Legal Counsel",
