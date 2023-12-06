@@ -25,30 +25,6 @@
             "fees": "$150.00"
         },
         {
-            "first_name": "Kai",
-            "last_name": "Russell",
-            "current_role": "Marketing Manager",
-            "organization": "Oracle",
-            "type": "Mentor",
-            "expertise": "Marketing Strategy",
-            "email": "david.williams@yahoo.com",
-            "linkedin": "https://www.linkedin.com/in/davidwilliams",
-            "participation": "Active",
-            "fees": "$120.00"
-        },
-        {
-            "first_name": "Riley",
-            "last_name": "Sheppard",
-            "current_role": "UX Designer",
-            "organization": "Google",
-            "type": "Speaker",
-            "expertise": "User Experience",
-            "email": "emily.jones@outlook.com",
-            "linkedin": "https://www.linkedin.com/in/emilyjones",
-            "participation": "Active",
-            "fees": "$130.00"
-        },
-        {
             "first_name": "Quinn",
             "last_name": "Cordova",
             "current_role": "UX Designer",
