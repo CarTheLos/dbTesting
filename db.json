@@ -1,18 +1,6 @@
 {
     "people": [
         {
-            "first_name": "Charlie",
-            "last_name": "Erickson",
-            "current_role": "Software Engineer",
-            "organization": "Apple",
-            "type": "Mentor",
-            "expertise": "Software Development",
-            "email": "john.doe@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/johndoe",
-            "participation": "Active",
-            "fees": "$100.00"
-        },
-        {
             "first_name": "Avery",
             "last_name": "Sosa",
             "current_role": "Data Scientist",
