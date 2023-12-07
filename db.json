@@ -1,15 +1,15 @@
 {
   "categories": [
     {
-      "firstname": first,
-      "lastname": last,
+      "firstname": "first",
+      "lastname": "last",
       "email": "Test@ucmerced.edu",
       "location": "London",
       "linkedin": "www.linkedin/london.com",
       "personalweb": "",
-      "core_industry": core,
-      "expertise": expertise,
-      "story": story,
+      "core_industry": "core",
+      "expertise": "expertise",
+      "story": "story",
       "work_better": "Tomfulery",
       "time_avail": "Software",
       "feedback": "N/A"
