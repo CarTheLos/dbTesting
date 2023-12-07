@@ -101,6 +101,23 @@
       "Better_with": "scaleUp",
       "Time_avail": "hourly",
       "Feedback": "Alternative topics could be other fields that Arnt the big ones."
+    },
+    {
+      "firstname": "External",
+      "lastname": "Site",
+      "email": "External",
+      "location": "west",
+      "Linkedin": "www.Linkedin.com/external",
+      "PersonalWeb": "Personal",
+      "Current_Role": "Software Engineer",
+      "Company": "infoTech",
+      "Mentorship": "speaker",
+      "Core_Industry": "teleCom",
+      "Expertise": "Data Analytics",
+      "Story": "scalingUp",
+      "Better_with": "scaleUp",
+      "Time_avail": "single",
+      "Feedback": "N/A"
     }
   ]
 }
