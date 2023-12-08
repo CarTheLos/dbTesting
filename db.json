@@ -85,18 +85,6 @@
       "Mentorship": "Both"
     },
     {
-      "firstname": "Chloe",
-      "lastname": "Williams",
-      "location": "New York, USA",
-      "Current_Role": "Marketing Specialist",
-      "Company": "Apple",
-      "Core_Industry": "Marketing",
-      "Expertise": "Social Media",
-      "email": "chloe.williams@example.com",
-      "LinkedIn": "https://www.linkedin.com/in/chloewilliams",
-      "Mentorship": "Mentor"
-    },
-    {
       "firstname": "Liam",
       "lastname": "Jones",
       "location": "London, UK",
