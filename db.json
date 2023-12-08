@@ -85,30 +85,6 @@
       "Mentorship": "Both"
     },
     {
-      "firstname": "Liam",
-      "lastname": "Jones",
-      "location": "London, UK",
-      "Current_Role": "IT Consultant",
-      "Company": "Microsoft",
-      "Core_Industry": "Information Technology",
-      "Expertise": "Cloud Computing",
-      "email": "liam.jones@example.com",
-      "LinkedIn": "https://www.linkedin.com/in/liamjones",
-      "Mentorship": "Speaker"
-    },
-    {
-      "firstname": "Mia",
-      "lastname": "Martinez",
-      "location": "Barcelona, Spain",
-      "Current_Role": "Graphic Designer",
-      "Company": "Oracle",
-      "Core_Industry": "Design",
-      "Expertise": "Visual Design",
-      "email": "mia.martinez@example.com",
-      "LinkedIn": "https://www.linkedin.com/in/miamartinez",
-      "Mentorship": "Both"
-    },
-    {
       "firstname": "Caleb",
       "lastname": "Johnson",
       "location": "Sydney, Australia",
