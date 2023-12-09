@@ -109,6 +109,42 @@
         "Mentorship": "Speaker"
       },
       {
+        "firstname": "Maya",
+        "lastname": "Chidambaram",
+        "location": "King, California",
+        "Current_Role": "Back-end Developer",
+        "Company": "INNOVIT",
+        "Core_Industry": "Software Development",
+        "Expertise": "Database Administration",
+        "email": "mchidambaram@example.com",
+        "LinkedIn": "https://www.linkedin.com/in/mayachidambaram",
+        "Mentorship": "Both"
+      },
+      {
+        "firstname": "Jorge",
+        "lastname": "Cruz",
+        "location": "Falls, California",
+        "Current_Role": "Front-end Developer",
+        "Company": "INNOVIT",
+        "Core_Industry": "Software Development",
+        "Expertise": "User Interface Design",
+        "email": "jcruz@example.com",
+        "LinkedIn": "https://www.linkedin.com/in/jorgecruz",
+        "Mentorship": "Both"
+      },
+      {
+        "firstname": "Elvis",
+        "lastname": "Mercado",
+        "location": "San Jose, California",
+        "Current_Role": "Back-end Developer",
+        "Company": "INNOVIT",
+        "Core_Industry": "Software Development",
+        "Expertise": "Database Administration",
+        "email": "mchidambaram@example.com",
+        "LinkedIn": "https://www.linkedin.com/in/mayachidambaram",
+        "Mentorship": "Both"
+      },
+      {
         "firstname": "Elijah",
         "lastname": "Harris",
         "location": "San Francisco, USA",
