@@ -301,18 +301,6 @@
       "Mentorship": "Mentor"
     },
     {
-      "firstname": "Emma",
-      "lastname": "Kumar",
-      "location": "Mumbai, India",
-      "Current_Role": "Marketing Specialist",
-      "Company": "Lenovo",
-      "Core_Industry": "Digital Marketing",
-      "Expertise": "Digital Marketing",
-      "email": "emma.kumar@example.com",
-      "LinkedIn": "https://www.linkedin.com/in/emmakumar",
-      "Mentorship": "Speaker"
-    },
-    {
       "firstname": "Jack",
       "lastname": "Smith",
       "location": "New York, USA",
