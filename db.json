@@ -313,18 +313,6 @@
       "Mentorship": "Speaker"
     },
     {
-      "firstname": "Jack",
-      "lastname": "Smith",
-      "location": "New York, USA",
-      "Current_Role": "HR Manager",
-      "Company": "Dell",
-      "Core_Industry": "Human Resources",
-      "Expertise": "Employee Development",
-      "email": "jack.smith@example.com",
-      "LinkedIn": "https://www.linkedin.com/in/jacksmith",
-      "Mentorship": "Both"
-    },
-    {
       "firstname": "Madison",
       "lastname": "Martin",
       "location": "Paris, France",
