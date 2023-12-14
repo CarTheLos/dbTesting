@@ -1,23 +1,6 @@
 {
   "categories": [
     {
-      "firstname": "firstname",
-      "lastname": "lastname",
-      "email": "first@gmail.com",
-      "location": "east",
-      "Linkedin": "www.linkedin.com",
-      "PersonalWeb": "www.ex.com",
-      "Current_Role": "Cybersecurity",
-      "Company": "infoTech",
-      "Mentorship": "both",
-      "Core_Industry": "robotics",
-      "Expertise": "2 Years",
-      "Story": "patents",
-      "Better_with": "corporate",
-      "Time_avail": "hourly",
-      "Feedback": "N/A"
-    },
-    {
       "firstname": "Crystal",
       "lastname": "Richard",
       "email": "Crystalrich@gmail.com",
