@@ -290,6 +290,23 @@
       "Feedback": "Outstanding!"
     },
     {
+      "firstname": "Carlos",
+      "lastname": "Lopez",
+      "email": "clopez327@ucmerced.edu",
+      "location": "West Region, USA",
+      "LinkedIn": "LinkedIn.com/clopez327",
+      "PersonalWeb": "clopez.com",
+      "Current_Role": "Telecommunications Technician",
+      "Company": "Cisco",
+      "Mentorship": "Both",
+      "Core_Industry": "Telecommunication",
+      "Expertise": "VOIP",
+      "Story": "Corporate life",
+      "Better_with": "Scale Up",
+      "Time_avail": "More than 1 day per month",
+      "Feedback": "Awesome!"
+    },
+    {
       "firstname": "Riley",
       "lastname": "Woods",
       "email": "rileywoods@example.com",
