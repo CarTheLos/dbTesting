@@ -1,6 +1,40 @@
 {
   "categories": [
     {
+      "firstname": "firstname",
+      "lastname": "lastname",
+      "email": "first@gmail.com",
+      "location": "east",
+      "Linkedin": "www.linkedin.com",
+      "PersonalWeb": "www.ex.com",
+      "Current_Role": "Cybersecurity",
+      "Company": "infoTech",
+      "Mentorship": "both",
+      "Core_Industry": "robotics",
+      "Expertise": "2 Years",
+      "Story": "patents",
+      "Better_with": "corporate",
+      "Time_avail": "hourly",
+      "Feedback": "N/A"
+    },
+    {
+      "firstname": "Crystal",
+      "lastname": "Richard",
+      "email": "Crystalrich@gmail.com",
+      "location": "west",
+      "Linkedin": "www.linkedin.com",
+      "PersonalWeb": "www.personal.com",
+      "Current_Role": "Software Engineer",
+      "Company": "infoTech",
+      "Mentorship": "speaker",
+      "Core_Industry": "financial",
+      "Expertise": "UX",
+      "Story": "patents",
+      "Better_with": "small",
+      "Time_avail": "hourly",
+      "Feedback": "N/A"
+    },
+    {
       "firstname": "John",
       "lastname": "Richard",
       "email": "Johnrichard@gmail.com",
