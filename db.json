@@ -288,6 +288,23 @@
       "Better_with": "startup",
       "Time_avail": "multiple",
       "Feedback": "N/A"
+    },
+    {
+      "firstname": "Stephen",
+      "lastname": "Hawking",
+      "email": "stephenhawking@gmail.com",
+      "location": "bayarea",
+      "Linkedin": "linkedin.com",
+      "PersonalWeb": "stephenhawking.com",
+      "Current_Role": "Astronomist",
+      "Company": "infoTech",
+      "Mentorship": "speaker",
+      "Core_Industry": "aero",
+      "Expertise": "Black holes",
+      "Story": "production",
+      "Better_with": "scaleUp",
+      "Time_avail": "multiple",
+      "Feedback": "N/A"
     }
   ]
 }
