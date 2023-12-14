@@ -2327,66 +2327,6 @@
       "email": "grace.miller@example.com",
       "LinkedIn": "https://www.linkedin.com/in/gracemiller",
       "Mentorship": "Both"
-    },
-    {
-      "firstname": "Lucas",
-      "lastname": "Zhang",
-      "location": "Paris, France",
-      "Current_Role": "UX/UI Designer",
-      "Company": "Oracle",
-      "Core_Industry": "Design",
-      "Expertise": "User Interface Design",
-      "email": "lucas.zhang@example.com",
-      "LinkedIn": "https://www.linkedin.com/in/lucaszhang",
-      "Mentorship": "Mentor"
-    },
-    {
-      "firstname": "Lily",
-      "lastname": "Huang",
-      "location": "Seoul, South Korea",
-      "Current_Role": "Marketing Manager",
-      "Company": "Google",
-      "Core_Industry": "Marketing",
-      "Expertise": "Content Marketing",
-      "email": "lily.huang@example.com",
-      "LinkedIn": "https://www.linkedin.com/in/lilyhuang",
-      "Mentorship": "Speaker"
-    },
-    {
-      "firstname": "Jackson",
-      "lastname": "Martin",
-      "location": "Mumbai, India",
-      "Current_Role": "Software Engineer",
-      "Company": "Lenovo",
-      "Core_Industry": "Software Development",
-      "Expertise": "Mobile App Development",
-      "email": "jackson.martin@example.com",
-      "LinkedIn": "https://www.linkedin.com/in/jacksonmartin",
-      "Mentorship": "Both"
-    },
-    {
-      "firstname": "Aria",
-      "lastname": "Nguyen",
-      "location": "Mexico City, Mexico",
-      "Current_Role": "Sales Executive",
-      "Company": "HP",
-      "Core_Industry": "Sales",
-      "Expertise": "B2B Sales",
-      "email": "aria.nguyen@example.com",
-      "LinkedIn": "https://www.linkedin.com/in/arianguyen",
-      "Mentorship": "Mentor"
-    },
-    {
-      "firstname": "Sophie",
-      "lastname": "Allen",
-      "location": "San Francisco, USA",
-      "Current_Role": "Product Designer",
-      "Company": "Google",
-      "Core_Industry": "Design",
-      "Expertise": "User Interface Design",
-      "email": "sophie.allen@example.com",
-      "LinkedIn": "https://www.linkedin.com/in/sophieallen",
-      "Mentorship": "Mentor"
     }
   ]
 }
