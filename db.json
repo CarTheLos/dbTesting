@@ -305,6 +305,23 @@
       "Better_with": "scaleUp",
       "Time_avail": "multiple",
       "Feedback": "N/A"
+    },
+    {
+      "firstname": "Bill",
+      "lastname": "Gates",
+      "email": "billgates@outlook.com",
+      "location": "bayarea",
+      "Linkedin": "linkedin.com",
+      "PersonalWeb": "billgates.com",
+      "Current_Role": "CEO",
+      "Company": "software",
+      "Mentorship": "mentor",
+      "Core_Industry": "aero",
+      "Expertise": "CEO",
+      "Story": "production",
+      "Better_with": "startup",
+      "Time_avail": "oneTime",
+      "Feedback": "N/A"
     }
   ]
 }
